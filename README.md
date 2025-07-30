@@ -33,7 +33,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deeppatel-4032&show_icons=true&locale=en&layout=compact" alt="deeppatel-4032" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deeppatel-4032&show_icons=true&locale=en" alt="deeppatel-4032" /></p>
+
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deeppatel-4032&" alt="deeppatel-4032" /></p>
 
 
 
